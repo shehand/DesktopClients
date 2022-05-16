@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "514201482437B4B30078DB4F"
                BuildableName = "desktopclients.app"
-               BlueprintName = "desktopclients-macOS"
-               ReferencedContainer = "container:desktopclients.xcodeproj">
+               BlueprintName = "NetflixDesktopClient-macOS"
+               ReferencedContainer = "container:NetflixDesktopClient.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,8 +46,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "514201482437B4B30078DB4F"
             BuildableName = "desktopclients.app"
-            BlueprintName = "desktopclients-macOS"
-            ReferencedContainer = "container:desktopclients.xcodeproj">
+            BlueprintName = "NetflixDesktopClient-macOS"
+            ReferencedContainer = "container:NetflixDesktopClient.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -63,8 +63,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "514201482437B4B30078DB4F"
             BuildableName = "desktopclients.app"
-            BlueprintName = "desktopclients-macOS"
-            ReferencedContainer = "container:desktopclients.xcodeproj">
+            BlueprintName = "NetflixDesktopClient-macOS"
+            ReferencedContainer = "container:NetflixDesktopClient.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

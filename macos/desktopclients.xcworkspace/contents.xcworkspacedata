@@ -2,7 +2,7 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:desktopclients.xcodeproj">
+      location = "group:/Users/shehandhaleesha/Desktop/RN4Mac/DesktopClients/macos/NetflixDesktopClient.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Pods/Pods.xcodeproj">
