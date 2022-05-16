@@ -6,7 +6,7 @@ class App extends Component {
   render() {
     return (
       <WebView
-        source={{ uri: 'https://example.com/' }}
+        source={{ uri: 'https://facebook.com/' }}
         style={{ marginTop: 20 }}
       />
     );
